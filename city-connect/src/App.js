@@ -5,13 +5,7 @@ import { getFirestore, doc, getDoc, setDoc, onSnapshot } from 'firebase/firestor
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBcTnj-_IU4ZLzy08pKYXcWF7YnOaR0u1E",
-  authDomain: "city-connect-app-cf261.firebaseapp.com",
-  projectId: "city-connect-app-cf261",
-  storageBucket: "city-connect-app-cf261.firebasestorage.app",
-  messagingSenderId: "42474098881",
-  appId: "1:42474098881:web:1c3f3efa0215f2d5d2c440",
-  measurementId: "G-8221BEE2SF"
+
 };
 
 // Initialize Firebase
